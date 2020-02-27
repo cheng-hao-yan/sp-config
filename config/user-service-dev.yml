@@ -6,7 +6,7 @@ sp:
 
 spring:
   application:
-    name: user-serveice
+    name: user-service
   cloud:
     config:
       override-none: true
